@@ -18,7 +18,7 @@ Or create a new one `sudo docker build -t bibliqal .`
 
 
 ## Knowledge Bases
-Knowledge bases are taken from the following:
+Knowledge bases are taken from the following:  
 __Bible hub__:  
     - [Expositor's commentary](https://biblehub.com/commentaries/expositors/genesis/1.htm)  
 __Blue letter bible__:  
