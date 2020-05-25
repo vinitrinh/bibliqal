@@ -1,4 +1,6 @@
-# BibliQAl - QA engine on bible commentaries  
+<img src = "img/Screenshot from 2020-05-25 10-53-57@2x.png">   
+
+# QA engine on bible commentaries  
 Bibliqal takes in natural language questions and outputs relevant answers from famous "legit" docummentaries.  
 
 <img src = "img/Bibliqal - Jews and the gospel.gif">  
